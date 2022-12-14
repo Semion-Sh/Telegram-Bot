@@ -3,7 +3,6 @@ Warning Words
 kinds_of_poll.py
 **/__pycache__
 .idea
-README.md
 .DS_Store
 __pycache__
 venv
